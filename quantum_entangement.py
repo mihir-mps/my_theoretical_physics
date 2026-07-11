@@ -18,5 +18,5 @@ plt.show()
 
 
 
-result = bq.run(qc, device='quantum', shots=100)
+result = bq.run(qc, device='CPU', shots=100)
 print("\nEntanglement Results:", result.get_counts()) 
