@@ -2,7 +2,7 @@ import bluequbit
 from qiskit import QuantumCircuit
 import matplotlib.pyplot as plt
 
-bq = bluequbit.init("V0ADIqu8zcW0hjebFL1oPJZMr9s2OuMY")
+bq = bluequbit.init("Your_API")
 
 
 qc = QuantumCircuit(2)
