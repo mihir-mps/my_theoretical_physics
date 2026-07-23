@@ -1,1 +1,1 @@
-# When you become untouchable, you're unable to touch
+# When you become untouchable, you're unable to touch.
